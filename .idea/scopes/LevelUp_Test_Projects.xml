@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="LevelUp-Test-Projects" pattern="file[espressoTestLib]:*/||file[levelUpCacheLibTest]:*/||file[levelUpCoreFixturesLib]:*/||file[levelUpCoreTestLib]:*/||file[levelUpGlueTestLib]:*/||file[levelUpPushLibTest]:*/||file[levelUpScreenshotApp]:*/||file[levelUpScreenshotTestLib]:*/||file[levelUpUiLibTest]:*/||file[levelUpUiTestLib]:*/||file[levelUpWhiteLabelAppLibTest]:*/" />
+</component>
